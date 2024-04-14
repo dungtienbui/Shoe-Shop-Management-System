@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=EaYfwPvVSvI
 - Đỗ Phương Nam : 
   - Design : Checkout
   - Develop : Checkout
-- Bùi Tiến Dũng : 
+- Bùi Tiến Dũng (Me): 
   - Design : Product Management, Storehouse Management
   - Develop : Product Management, Storehouse Management
 - Nguyễn Trung Nghĩa : 
